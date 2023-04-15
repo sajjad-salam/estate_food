@@ -3,12 +3,6 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -58,8 +52,6 @@ Use the `BLANK_README.md` to get started.
 ### Built With
 flutter app
 
-[![flutter][flutter.dev]][flutter-url]
-[![dart][pub.dev]][flutter-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
